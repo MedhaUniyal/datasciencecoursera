@@ -2,5 +2,8 @@ datasciencecoursera
 ===================
 
 For Coursera
-## helo
+## Sample Text
+### Lorem Ipsum
+* Dummy
+* Dummy
 
